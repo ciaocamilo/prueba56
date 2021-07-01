@@ -1,0 +1,18 @@
+git init
+git add README.md
+git commit -m "Primer commit"
+git branch -M main
+git remote add origin https://github.com/ciaocamilo/prueba56.git
+git status
+git push -u origin main
+git add .
+git commit -m "Se agrega clase principal"
+git push
+
+git add .
+git commit -m "Mensaje"
+git push
+
+
+git config --global user.email "nombre@micorreo.com"
+git config --global user.name "Mi nombre"
