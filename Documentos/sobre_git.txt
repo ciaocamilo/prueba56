@@ -1,3 +1,5 @@
+CREACIÓN DEL repositorio
+
 git init
 git add README.md
 git commit -m "Primer commit"
@@ -9,10 +11,13 @@ git add .
 git commit -m "Se agrega clase principal"
 git push
 
+AGREGAR Y SUBIR CAMBIOS
+
 git add .
 git commit -m "Mensaje"
 git push
 
+CONFIGURACIÓN DE CUENTA
 
 git config --global user.email "nombre@micorreo.com"
 git config --global user.name "Mi nombre"
