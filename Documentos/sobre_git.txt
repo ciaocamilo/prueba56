@@ -21,3 +21,8 @@ CONFIGURACIÓN DE CUENTA
 
 git config --global user.email "nombre@micorreo.com"
 git config --global user.name "Mi nombre"
+
+CLONAR repositorio
+
+git clone https://github.com/ciaocamilo/proyectos_grupo_56.git
+git pull
